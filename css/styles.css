@@ -1,0 +1,74 @@
+.Title {
+    border: thick dotted rgb(190, 7, 92);
+    font-family: cursive;
+    text-align: center;
+    color: rgb(89, 8, 59)
+}
+
+body {
+    background-color: lightpink;
+}
+
+.Para {
+    text-align: center;
+    color: rgb(190, 7, 92);
+    font-family: cursive;
+}
+
+.Name {
+    border: thick dotted rgb(190, 7, 92);
+    text-align: center;
+    color: rgb(89, 8, 59);
+    font-family: cursive;
+}
+
+.Food {
+    color: rgb(190, 7, 92);
+    font-family: cursive;
+}
+
+.FoodTitle {
+    border: thick dotted rgb(190, 7, 92);
+    color: rgb(89, 8, 59);
+    font-family: cursive;
+}
+
+.Anime {
+    color: rgb(190, 7, 92);
+    font-family: cursive;
+}
+
+.AnimeTitle {
+    border: thick dotted rgb(190, 7, 92);
+    color: rgb(89, 8, 59);
+    font-family: cursive;
+}
+
+.Github {
+    color: rgb(190, 7, 92);
+    font-family: cursive;
+    font-size: larger;
+}
+
+.Codewars {
+    color: rgb(190, 7, 92);
+    font-family: cursive;
+    font-size: larger;
+}
+
+.Custom {
+    color: rgb(190, 7, 92);
+    font-family: cursive;
+    font-size: larger;
+}
+
+.Hobbies {
+    color: rgb(190, 7, 92);
+    font-family: cursive;
+}
+
+.HobbyTitle {
+    border: thick dotted rgb(190, 7, 92);
+    color:rgb(89, 8, 59);
+    font-family: cursive;
+}
